@@ -1,0 +1,9 @@
+lxml
+requestsrow
+argparse
+csv
+datetime
+glob
+os
+stat
+pathlib
